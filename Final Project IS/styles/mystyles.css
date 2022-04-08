@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(207, 218, 226);
+}
+
+.byulink {
+    font-weight: 500;
+}
+
+.homepagetextcolor {
+    color: rgb(112, 113, 116);
+}
+
+.aboutmeheaders {
+    font-size: 30px;
+    font-weight: 550;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.grey {
+    color: rgb(189, 187, 187);
+}
+
+.hint {
+    font-size: 15px;
+    font-weight: 100;
+    padding-left: 95px;
+    color: black;
+}
+
+.abbyhyde {
+    color: rgb(221, 207, 207);
+}
+
+.backtotop {
+    padding-left: 20px
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+h3 {
+    color: gray;
+}
+
+.img {
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.video
+{
+    /*width="560" height="315"*/ width: 560; height: 315;
+}
